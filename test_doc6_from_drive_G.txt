@@ -1,0 +1,6 @@
+This is a test called "test_doc6.txt".
+This is a test called "test_doc6.txt".
+This is a test called "test_doc6.txt".
+This is a test called "test_doc6.txt".
+This is a test called "test_doc6.txt".
+This is a test called "test_doc6.txt".
